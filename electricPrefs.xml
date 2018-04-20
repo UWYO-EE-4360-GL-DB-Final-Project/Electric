@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE preferences SYSTEM "http://java.sun.com/dtd/preferences.dtd"><preferences EXTERNAL_XML_VERSION="1.0">
+  <root type="user">
+    <map/>
+    <node name="com">
+      <map/>
+      <node name="sun">
+        <map/>
+        <node name="electric">
+          <map/>
+          <node name="database">
+            <map/>
+            <node name="hierarchy">
+              <map/>
+              <node name="noname">
+                <map/>
+              </node>
+            </node>
+            <node name="network">
+              <map/>
+            </node>
+            <node name="variable">
+              <map/>
+            </node>
+          </node>
+          <node name="plugins">
+            <map/>
+            <node name="sctiming">
+              <map/>
+            </node>
+          </node>
+          <node name="technology">
+            <map/>
+            <node name="technologies">
+              <map>
+                <entry key="MoCMOSDisallowStackedVias" value="true"/>
+                <entry key="mocmosNumberOfMetalLayers" value="2"/>
+                <entry key="ScaleFORmocmos" value="300.0"/>
+                <entry key="mocmosSecondPolysilicon" value="false"/>
+                <entry key="ScaleFORmocmossub" value="300.0"/>
+              </map>
+            </node>
+          </node>
+          <node name="tool">
+            <map/>
+            <node name="compaction">
+              <map/>
+            </node>
+            <node name="drc">
+              <map>
+                <entry key="IncrementalDRCOn" value="true"/>
+              </map>
+            </node>
+            <node name="extract">
+              <map/>
+            </node>
+            <node name="generator">
+              <map/>
+              <node name="layout">
+                <map/>
+              </node>
+            </node>
+            <node name="io">
+              <map/>
+            </node>
+            <node name="logicaleffort">
+              <map/>
+            </node>
+            <node name="project">
+              <map/>
+            </node>
+            <node name="routing">
+              <map/>
+            </node>
+            <node name="simulation">
+              <map>
+                <entry key="SpiceParasiticsLevel" value="1"/>
+                <entry key="SpiceHeaderCardInfo" value="AMIOp5BSIM.txt"/>
+                <entry key="SpiceTrailerCardInfo" value="N O N E "/>
+              </map>
+            </node>
+            <node name="user">
+              <map>
+                <entry key="WindowLocation" value="1358.0,-8.0 1382.0x744.0"/>
+              </map>
+              <node name="menus">
+                <map/>
+              </node>
+              <node name="ui">
+                <map/>
+              </node>
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+  </root>
+</preferences>
