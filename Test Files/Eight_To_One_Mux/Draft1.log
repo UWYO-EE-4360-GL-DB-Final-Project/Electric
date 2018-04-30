@@ -1,0 +1,28 @@
+Circuit: * C:\Users\Grant\Desktop\Electric_Repository\Test Files\Eight_To_One_Mux\Draft1.asc
+
+Warning: Pd = 0 is less than W.
+Warning: Ps = 0 is less than W.
+Warning: Pd = 0 is less than W.
+Warning: Ps = 0 is less than W.
+Direct Newton iteration for .op point succeeded.
+Heightened Def Con from 9.89999e-010 +++++++++++++++++++++++++to 9.9e-010
+Heightened Def Con from 2.01e-009 to 2.01002e-009
+Heightened Def Con from 2.01002e-009 to 2.01295e-009
+
+Date: Wed Apr 25 08:48:31 2018
+Total elapsed time: 9.151 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 3348412
+traniter = 3348407
+tranpoints = 787691
+accept = 590715
+rejected = 197004
+matrix size = 9
+fillins = 0
+solver = Normal
+Matrix Compiler1: 476 bytes object code size  0.1/0.1/[0.0]
+Matrix Compiler2: 635 bytes object code size  0.1/0.3/[0.1]
+
