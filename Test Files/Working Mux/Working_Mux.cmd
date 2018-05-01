@@ -1,0 +1,27 @@
+vector IN S_One S_Two S_Three S_One_Not S_Two_Not S_Three_Not A B FOUR ZERO
+
+s 4
+set IN 0001110000
+s 4
+set IN 1000111111
+s 4
+set IN 0101010000
+s 4
+set IN 1100011111
+s 4
+set IN 0011100000
+s 4
+set IN 1010101111
+s 4
+set IN 0111000000
+s 4
+set IN 1110000111
+s 4
+set IN 1110000000
+s 4
+set IN 1110001011
+s 4
+set IN 1110001100
+
+
+

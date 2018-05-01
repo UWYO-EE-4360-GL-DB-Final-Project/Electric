@@ -178,7 +178,7 @@ VA a 0 5
 
 VB b 0 5
 
-.dc VB 0 5 .01
+.dc VA 0 5 .01
 
 ***.tran 3n
 
